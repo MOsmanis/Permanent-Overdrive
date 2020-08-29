@@ -1,4 +1,4 @@
-Console game made with Python library Curses. Originally made for Trijam17 in 6 hours. (https://itch.io/jam/trijam-17)
+Terminal game made with Python library Curses. Originally made for Trijam17 in 6 hours. (https://itch.io/jam/trijam-17)
 Later re-made into server-client 2 player version for computer networks class.
 Video: https://youtu.be/OF8FJNXGzyM
 
